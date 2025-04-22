@@ -1,6 +1,6 @@
 # 🏓 Pong in Python
 
-**Created:** September 2023  
+**Created:** August 2023  
 **Language:** Python (Pygame)  
 **Developer:** Ibtasaam Amjad
 
@@ -29,6 +29,32 @@ This version of Pong represents one of my earliest attempts at structuring gamep
 
 ---
 
+## ▶️ How to Run the Game
+
+1. **Install Pygame** (if not already installed):
+   ```bash
+   pip install pygame
+   ```
+
+2. **Download or clone the repository:**
+   ```bash
+   git clone https://github.com/Mughal-Hash-24/Pong
+   cd Pong
+   ```
+
+3. **Make sure all required assets (if any) are in the same directory as `main.py`.**
+
+4. **Run the game:**
+   ```bash
+   python main.py
+   ```
+
+Controls:
+- **Player 1:** W (up), S (down)  
+- **Player 2:** Up Arrow (↑), Down Arrow (↓)
+
+---
+
 ## 🧠 What I Learned
 
 - Building a real-time, two-player game loop  
@@ -48,6 +74,7 @@ No flashy graphics. No complex physics. Just paddles, a ball, and the thrill of 
 
 This project helped me think beyond just "making things work" — and more about *making things feel good*.  
 It’s not the most complex game I’ve made. But it’s one of the most honest.
+
 ~Ibtasaam Amjad (April 2025)
 
 ---
